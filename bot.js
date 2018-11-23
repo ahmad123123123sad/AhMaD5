@@ -5,10 +5,14 @@ client.on('ready', async() => {
 var server = "496762158000898049"; 
 var channel = "515432320375717918";
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('** احمد عمك يا ورع احمد عمك يا ورع احمد عمك يا ورع احمد عمك يا ورعاحمد عمك يا ورع احمد عمك يا ورع احمد عمك يا ورع احمد عمك يا ورع احمد عمك يا ورعاحمد عمك يا ورع  **')
+    client.guilds.get(server).channels.get(channel).send('** aaaaaaa  **')
     },305);
 })
 
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send('** ddddddd  **')
+    },305);
+})
 
 
 
